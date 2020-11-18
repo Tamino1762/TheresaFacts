@@ -1,0 +1,14 @@
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\bin\Debug\netstandard2.0\TheresaFacts.deps.json
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\bin\Debug\netstandard2.0\TheresaFacts.dll
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\bin\Debug\netstandard2.0\ref\TheresaFacts.dll
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\bin\Debug\netstandard2.0\TheresaFacts.pdb
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\obj\Debug\netstandard2.0\TheresaFacts.csprojAssemblyReference.cache
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\obj\Debug\netstandard2.0\TheresaFacts.AssemblyInfoInputs.cache
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\obj\Debug\netstandard2.0\TheresaFacts.AssemblyInfo.cs
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\obj\Debug\netstandard2.0\TheresaFacts.csproj.CoreCompileInputs.cache
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\obj\Debug\netstandard2.0\TheresaFacts.dll
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\obj\Debug\netstandard2.0\ref\TheresaFacts.dll
+C:\Users\Theresa\source\repos\TheresaFacts\TheresaFacts\obj\Debug\netstandard2.0\TheresaFacts.pdb
